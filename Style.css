@@ -6,3 +6,9 @@ h1 {
     font-size: 50px;
     color: white;
 }
+
+p{
+    color: blue;
+    font-size: 20px;
+    font-family: sans-serif;
+}
